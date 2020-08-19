@@ -15,3 +15,15 @@ background-color: darkred;
     font-family:'Kaushan Script', cursive;
     color: whitesmoke;
 }
+<<<<<<< HEAD
+.card-img-top{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 9rem;
+}
+.card{
+    background-color: white;
+}
+=======
+>>>>>>> e084ff07c7aad339213de95f5d0d1a98010a77d2
