@@ -20,13 +20,20 @@
         color: whitesmoke;
         text-align: center;
     }
-    
-.display-4{
+    .beverages{
+        font-weight: bold;
+        color: whitesmoke;
+        text-align: center;
+    }
+.row{
     text-align: center;
-    color: whitesmoke;
+}
+.carousel-inner > .item > img {
+    width:360px;
+    height:360px;
+  }
 
-}
-.card-img-top{
-    width: 286px;
-    height: 286px;
-}
+  .carousel-side {
+    width:360px;
+    height:360px;
+  }
