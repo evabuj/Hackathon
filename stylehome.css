@@ -1,5 +1,7 @@
 
 .container{
     background-color: darkred;
-    background-position: center;
+}
+.carouselslide{
+    image-orientation: center;
 }
