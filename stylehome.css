@@ -29,10 +29,11 @@
     text-align: center;
 }
 .carousel-inner > .item > img {
-    width:640px;
+    width:360px;
     height:360px;
   }
-.carousel-slide{
-    width:640px;
-  height:360px;
-}
+
+  .carousel-side {
+    width:360px;
+    height:360px;
+  }
