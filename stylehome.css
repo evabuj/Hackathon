@@ -2,6 +2,31 @@
 .container{
     background-color: darkred;
 }
-.carouselslide{
-    image-orientation: center;
+
+.jumbotron{
+    text-align: center;
+    color: whitesmoke;
+    background-image: url(https://steamykitchen.com/wp-content/uploads/2011/01/mothers-famous-chinese-egg-rolls-recipe-small-lg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: darkred;
+}
+.display-2{
+    color: whitesmoke;
+   font-family: 'Kaushan Script', cursive;
+    }
+    .lead{
+        font-weight: bold;
+        color: whitesmoke;
+        text-align: center;
+    }
+    
+.display-4{
+    text-align: center;
+    color: whitesmoke;
+
+}
+.card-img-top{
+    width: 286px;
+    height: 286px;
 }
