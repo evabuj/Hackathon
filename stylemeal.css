@@ -1,19 +1,12 @@
+
 .jumbotron{
+    background-color: darkred;
     text-align: center;
     color: whitesmoke;
-    background-image:url("https://media.istockphoto.com/photos/asian-food-background-with-various-of-cooking-ingredients-picture-id618041312?k=6&m=618041312&s=170667a&w=0&h=BA8TA-j3-pl2sNYKlRM4wHMK481arffjVnHYFv2n31A=");
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: auto;
-    border-image-width: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    background-color: initial;
+    background-image: url("https://media.istockphoto.com/photos/asian-food-background-with-various-of-cooking-ingredients-picture-id618041312?k=6&m=618041312&s=170667a&w=0&h=BA8TA-j3-pl2sNYKlRM4wHMK481arffjVnHYFv2n31A=");
 }
-.card-img-top{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 9rem;
+.background{
+background-color: darkred;
 }
