@@ -15,10 +15,16 @@
     color: whitesmoke;
    font-family: 'Kaushan Script', cursive;
     }
+    .lead{
+        font-weight: bold;
+        color: whitesmoke;
+        text-align: center;
+    }
     
 .display-4{
-    color: whitesmoke;
     text-align: center;
+    color: whitesmoke;
+
 }
 .card-img-top{
     width: 286px;
