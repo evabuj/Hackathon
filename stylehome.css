@@ -42,6 +42,12 @@
   .food{
       color: whitesmoke;
       text-align: center;
-      font-family:font-family: 'Kaushan Script', cursive; ;
+      font-family:'Kaushan Script', cursive; 
+  }
+  .foodjumbotron{
+      color:whitesmoke;
+      text-align:center;
+    background-color: darkred;
+
   }
   
