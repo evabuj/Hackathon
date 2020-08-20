@@ -15,15 +15,9 @@ background-color: darkred;
     color: whitesmoke;
     font-family: 'Kaushan Script', cursive;
 }
-<<<<<<< HEAD
-.card-img-top{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 9rem;
+footer{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
 }
-.card{
-    background-color: white;
-}
-=======
->>>>>>> e084ff07c7aad339213de95f5d0d1a98010a77d2
