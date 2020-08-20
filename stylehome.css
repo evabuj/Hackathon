@@ -1,0 +1,53 @@
+
+.container{
+    background-color: darkred;
+}
+
+.jumbotron{
+    text-align: center;
+    color: whitesmoke;
+    background-image: url(https://steamykitchen.com/wp-content/uploads/2011/01/mothers-famous-chinese-egg-rolls-recipe-small-lg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: darkred;
+}
+.display-2{
+    color: whitesmoke;
+   font-family: 'Kaushan Script', cursive;
+    }
+    .lead{
+        font-weight: bold;
+        color: whitesmoke;
+        text-align: center;
+    }
+    .beverages{
+        font-weight: bold;
+        color: whitesmoke;
+        text-align: center;
+    }
+.row{
+    text-align: center;
+}
+
+.carousel-item{
+    margin:auto;
+}
+.carousel-item :active{
+    margin: auto;
+}
+.carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  }
+  .food{
+      color: whitesmoke;
+      text-align: center;
+      font-family:'Kaushan Script', cursive; 
+  }
+  .foodjumbotron{
+      color:whitesmoke;
+      text-align:center;
+    background-color: darkred;
+
+  }
+  
