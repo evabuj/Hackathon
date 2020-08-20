@@ -28,12 +28,26 @@
 .row{
     text-align: center;
 }
-.carousel-inner > .item > img {
-    width:360px;
-    height:360px;
-  }
 
-  .carousel-side {
-    width:360px;
+.carousel-item{
+    margin:auto;
+}
+.carousel-item :active{
+    margin: auto;
+}
+.carousel-inner > .item > img {
+    width:640px;
     height:360px;
   }
+  .food{
+      color: whitesmoke;
+      text-align: center;
+      font-family:'Kaushan Script', cursive; 
+  }
+  .foodjumbotron{
+      color:whitesmoke;
+      text-align:center;
+    background-color: darkred;
+
+  }
+  
